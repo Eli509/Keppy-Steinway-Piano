@@ -20,109 +20,109 @@ pitchlfo_freq=2.550
 fillfo_freq=3.162
 
 // SSTR - Sample start
-<region> 1.wav
+<region> sample=1.wav
 pan=-47
 key=47
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 2.wav
+<region> sample=2.wav
 pan=-48
 key=48
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 3.wav
+<region> sample=3.wav
 pan=-49
 key=49
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 4.wav
+<region> sample=4.wav
 pan=-50
 key=50
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 5.wav
+<region> sample=5.wav
 pan=-51
 key=51
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 6.wav
+<region> sample=6.wav
 pan=-52
 key=52
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 7.wav
+<region> sample=7.wav
 pan=-53
 key=53
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 8.wav
+<region> sample=8.wav
 pan=-54
 key=54
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 9.wav
+<region> sample=9.wav
 pan=-55
 key=55
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 10.wav
+<region> sample=10.wav
 pan=-56
 key=56
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 11.wav
+<region> sample=11.wav
 pan=-57
 key=57
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 12.wav
+<region> sample=12.wav
 pan=-58
 key=58
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 13.wav
+<region> sample=13.wav
 pan=-59
 key=59
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 14.wav
+<region> sample=14.wav
 pan=-60
 key=60
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 15.wav
+<region> sample=15.wav
 pan=-61
 key=61
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 16.wav
+<region> sample=16.wav
 pan=-62
 key=62
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 17.wav
+<region> sample=17.wav
 pan=-63
 key=63
 pitch_keycenter=21
 ampeg_release=0.500
 
-<region> 18.wav
+<region> sample=18.wav
 pan=-64
 key=64
 pitch_keycenter=21
