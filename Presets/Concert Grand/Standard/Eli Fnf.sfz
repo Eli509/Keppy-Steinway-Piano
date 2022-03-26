@@ -14,7 +14,7 @@ default_path=..\..\..\Samples\Eli\
 lovel=0 hivel=5
 fil_type=lpf_2p
 fil_veltrack=9600
-cutoff=10
+cutoff=0
 ampeg_sustain=100
 pitchlfo_freq=2.550
 fillfo_freq=3.162
